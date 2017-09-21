@@ -1,0 +1,13 @@
+12:06:08,708  INFO devpinoyLogger<strong>{1}</strong>:50 - Opening Techfetch webiste
+12:06:09,869  INFO devpinoyLogger<strong>{1}</strong>:54 - Opening candidate menu
+12:06:13,493  INFO devpinoyLogger<strong>{1}</strong>:57 - Clicking Login button
+12:06:23,783  INFO devpinoyLogger<strong>{1}</strong>:62 - Entering mailid
+12:06:23,850  INFO devpinoyLogger<strong>{1}</strong>:65 - Entering password
+12:06:32,334  INFO devpinoyLogger<strong>{1}</strong>:68 - Clicking submit button
+12:06:34,154  INFO devpinoyLogger<strong>{1}</strong>:448 - Clicking Create jobalert 
+12:06:44,324  INFO devpinoyLogger<strong>{1}</strong>:452 - Selecting profile 
+12:06:46,538  INFO devpinoyLogger<strong>{1}</strong>:455 - Entering exclude company name
+12:06:52,782  INFO devpinoyLogger<strong>{1}</strong>:460 - Clicking save alert
+12:06:58,519  INFO devpinoyLogger<strong>{1}</strong>:468 - Clicking alertlist
+12:07:24,093  INFO devpinoyLogger<strong>{1}</strong>:569 - Clicking user settings 
+12:07:37,881  INFO devpinoyLogger<strong>{1}</strong>:572 - Clicking logout button 
